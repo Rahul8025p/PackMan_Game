@@ -1,7 +1,5 @@
 //                                                           IT 441 <-> COMPUTER GRAPHICS
 //                                                   		PROJECT <-> PACMAN
-//                                         UNDER THE SUPERVISION OF <-> PROF. NARESH JOTWANI AND MR. MANAN MAPARA
-//                                                     DEVELOPED BY <-> SHIVAM SHROFF
 #include<ctype.h>
 #include<math.h>
 #include<stdio.h>
