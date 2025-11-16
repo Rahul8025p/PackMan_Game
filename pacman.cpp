@@ -1,5 +1,6 @@
 //                                                           IT 441 <-> COMPUTER GRAPHICS
 //                                                   		PROJECT <-> PACMAN
+// 															PACMAN GAME
 #include<ctype.h>
 #include<math.h>
 #include<stdio.h>
